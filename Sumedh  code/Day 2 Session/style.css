@@ -1,0 +1,48 @@
+/* i love this web */
+body{  
+     background-image: url(./pexels-alex-andrews-864987.jpg); 
+
+}
+
+
+
+
+.gun{
+        color: rgb(8, 15, 20) ;
+        background-color: rgb(247, 144, 112) ;
+        border: 3px solid rgb(95, 164, 167);
+        border-radius: 7px;
+        padding: 5px;
+        margin: 80px;
+        text-align: center;
+
+  }
+
+  .bird{
+      color: rgba(0, 0, 0, 0.877);
+      background-color: rgb(240, 183, 207);
+      border: 2px dotted rgb(131, 138, 243);
+      padding: 5px;
+      text-align: center;
+      border-radius: 7px;
+  }
+
+  a{
+      color: rgb(247, 241, 241);
+      text-align: left;
+  }
+
+  a:hover{
+      color :aqua;
+
+  }
+
+  a:visited{
+      color :rgb(230, 146, 36);
+
+  }
+
+        
+    
+
+    
